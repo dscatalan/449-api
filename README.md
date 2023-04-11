@@ -34,8 +34,9 @@ activate the environment in project root directory
 ```
 
 
-Install the required packages (in activated environment)
+Install the required packages
 ```shell
+# activate environment
 pip install -r requirements.txt
 ```
 
