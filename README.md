@@ -2,6 +2,7 @@
 
 ```shell
 git clone https://github.com/dscatalan/449-api.git
+cd 449-api/
 ```
 
 create `.env` file in project root directory 
@@ -20,9 +21,27 @@ JWT_SECRET_KEY="?"
 
 Edit `?` with your credentials
 
-# Run
+
+create the environment in project root directory 
+```shell
+python3 -m venv venv
+```
+
+
+activate the environment in project root directory 
 ```shell
 . venv/bin/activate
+```
+
+
+Install the required packages (in activated environment)
+```shell
+pip install -r requirements.txt
+```
+
+
+# Run (in activated environment)
+```shell
 flask run
 ```
 
