@@ -33,3 +33,11 @@ Using
 - Ubuntu 22.04
 - MySQL Workbench
 - Postman
+
+## Resources
+ - [Flask's Documentation](https://flask.palletsprojects.com/en/2.2.x/)
+ - [Build a Rest API using Flask - P4- Python Flask tutorials](https://www.youtube.com/watch?v=8L_otSDvmR0)
+ - [User Authentication in Flask App using JWT [ JSON Web Token ]](https://www.youtube.com/watch?v=_3NKBHYcpyg)
+ - [Flask-Admin - An Example With an Existing Data Model](https://www.youtube.com/watch?v=0cySORIhkCg)
+ - [Build a JWT Based Authentication REST API with Flask and MySQL](https://medium.com/@karthikeyan.ranasthala/build-a-jwt-based-authentication-rest-api-with-flask-and-mysql-5dc6d3d1cb82)
+ - [Flask Docs: File Uploads](https://flask.palletsprojects.com/en/2.2.x/patterns/fileuploads/)
