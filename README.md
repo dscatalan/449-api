@@ -18,7 +18,7 @@ JWT_SECRET_KEY="?"
 
 # Run
 ```shell
-# activate environment
+. venv/bin/activate
 flask run
 ```
 
@@ -29,6 +29,8 @@ flask run
 
 
 # Info
+Team 17: Daisy Catalan
+
 Using
 - Ubuntu 22.04
 - MySQL Workbench
