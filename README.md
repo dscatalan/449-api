@@ -4,7 +4,9 @@
 git clone https://github.com/dscatalan/449-api.git
 ```
 
-touch `.env` and edit '?' with your credentials
+create `.env` file in project root directory 
+
+copy and paste the following into `.env` file
 
 ```
 MYSQL_USER="?"
@@ -15,6 +17,8 @@ MYSQL_DB="?"
 
 JWT_SECRET_KEY="?"
 ```
+
+Edit `?` with your credentials
 
 # Run
 ```shell
