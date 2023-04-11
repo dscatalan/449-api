@@ -41,8 +41,9 @@ pip install -r requirements.txt
 ```
 
 
-# Run (in activated environment)
+# Run
 ```shell
+# activate environment
 flask run
 ```
 
